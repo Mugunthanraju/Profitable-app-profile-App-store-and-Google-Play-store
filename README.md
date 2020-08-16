@@ -1,4 +1,4 @@
-# Profitable-app-profile-App-store-and-Google-Play-store
+# Profitable app profile App store and Google Play store
 In this project we find out which sort of app will be profitable and successful in both the mobile OS platform. I have given all the description along with the code in python notebook.
 
 **I took Apple's App store data set as well as Google play store data set.**
